@@ -21,4 +21,5 @@ class Jogador
     {
         Console.WriteLine(Pontuacao);
     }
-}
+
+}   
